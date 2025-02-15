@@ -3,6 +3,9 @@
 ## Overview
 This is a classic Snake Game implemented in C++ with a simple console-based interface. The game offers two difficulty modes: Easy (no border collision) and Hard (border collision enabled). The player's goal is to control the snake, eat fruits, and avoid collisions.
 This project is the closest to my heart. It was the first-semester project I did with Muhammad Uzair. So many memories flood back when I read through the comments. I am not one, but I think this is how fathers feel watching their children's childhood videos. <3 :')
+
+https://github.com/user-attachments/assets/00c93b97-5fc7-4b4d-a6ad-a27f49545227
+
 ## Features
 - Two difficulty levels: **Easy** (border collision off) and **Hard** (border collision on)
 - Simple **WASD** controls for movement
@@ -53,5 +56,5 @@ This project is the closest to my heart. It was the first-semester project I did
 - I don't want this to change :')
 
 ## Credits
-Coded by **Uzair Ashfaq & Asfand Yar**
+Coded by ** Asfand Yar & Uzair Ashfaq **
 
